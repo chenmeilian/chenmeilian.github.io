@@ -1,10 +1,10 @@
 # Site settings
-title: 测试标题
-SEOTitle: 什么事
-header-img: img/post-bg-desk.jpg
-email: chenmeilian@gmail.com
+title: Marian的秘密花园
+SEOTitle: Marian个人博客
+header-img: https://pic4.zhimg.com/50/v2-6e2dd19e275221239a4b37e562141a54_r.jpg
+email: chenmeilian671@gmail.com
 description: "hahahhah"
-keyword: "三叶语"
+keyword: "个人博客"
 url: "https://chenmeilian.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
